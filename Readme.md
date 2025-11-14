@@ -1,11 +1,13 @@
 # Data Jobs Dashboard
 
+## Introduction 
+This dashboard provides a comprehensive overview and drill-down analysis of the Data Jobs market, offering insights into job trends, salaries, global distribution, and platform prevalence.
+
 ## Overview Dashboard
 ![Main Page](/images/Main_page.png)
 ![Drillthrough Page](/images/drillthrough.png)
 
-## Introduction 
-This dashboard provides a comprehensive overview and drill-down analysis of the Data Jobs market, offering insights into job trends, salaries, global distribution, and platform prevalence.
+
 
 ## Interactive Visualizations:
 
